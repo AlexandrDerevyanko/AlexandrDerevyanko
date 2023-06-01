@@ -11,9 +11,9 @@
 
 ### Сертификаты Нетологии
 
-- [GIT]()
-- [Остновы Swift advanced]()
-- [Интерфейс приложения]()
-- [Промышленная разработка]()
-- [Хранение данных]()
-- [Продвинутая разработка]()
+- [GIT](https://github.com/AlexandrDerevyanko/git.pdf)
+- [Остновы Swift advanced](https://github.com/AlexandrDerevyanko/basics-swift-advanced.pdf)
+- [Интерфейс приложения](https://github.com/AlexandrDerevyanko/application-interface.pdf)
+- [Промышленная разработка](https://github.com/AlexandrDerevyanko/industrial-development.pdf)
+- [Хранение данных](https://github.com/AlexandrDerevyanko/data-storage.pdf)
+- [Продвинутая разработка](https://github.com/AlexandrDerevyanko/advanced-development.pdf)
