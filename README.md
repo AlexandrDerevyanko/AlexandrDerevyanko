@@ -11,9 +11,9 @@
 
 ### Сертификаты Нетологии
 
-- [GIT](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/git.pdf)
-- [Остновы Swift advanced](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/basics-swift-advanced.pdf)
-- [Интерфейс приложения](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/application-interface.pdf)
-- [Промышленная разработка](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/industrial-development.pdf)
-- [Хранение данных](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/data-storage.pdf)
-- [Продвинутая разработка](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/advanced-development.pdf)
+- [GIT](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/certificates/Git.pdf)
+- [Остновы Swift advanced](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/basics-swift-advanced.pdf)
+- [Интерфейс приложения](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/application-interface.pdf)
+- [Промышленная разработка](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/industrial-development.pdf)
+- [Хранение данных](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/data-storage.pdf)
+- [Продвинутая разработка](https://github.com/AlexandrDerevyanko/AlexandrDerevyanko/blob/main/advanced-development.pdf)
