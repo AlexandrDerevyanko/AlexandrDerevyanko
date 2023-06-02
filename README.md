@@ -4,10 +4,10 @@
 
 ### Вот, что я умею
 
-- [Курсовой проект: Приложение с прогнозом погоды](https://github.com/AlexandrDerevyanko/Weather-App) (CoreData, работа с сетью, UITableView, UICollectionView)
+- [Курсовой проект «Работа с сетью и хранение данных. Мобильное приложение с прогнозом погоды»](https://github.com/AlexandrDerevyanko/Weather-App) (CoreData, работа с сетью, UITableView, UICollectionView)
+- [База знаний по антропологии](https://github.com/AlexandrDerevyanko/SwiftUIHomework) (SwiftUI)
 - [Курсовой проект: Трекер полезных привычек](https://github.com/AlexandrDerevyanko/My-Habits) (Адаптивная верстка экранов, UITableView, UICollectionView)
 - [Приложение для отображения и сортировки файлов](https://github.com/AlexandrDerevyanko/IOSDT-FileManager) (FileManager, UserDefaults, Keychain)
-- [База знаний по антропологии](https://github.com/AlexandrDerevyanko/SwiftUIHomework) (SwiftUI)
 
 ### Сертификаты Нетологии
 
